@@ -264,14 +264,16 @@ a:active {
 
 
 .palau-yellow {
-	width: 60%;
-	height: 60%;
+	width: 390px;
+	height: 390px;
 	background-color: #ffff00;
 	position: absolute;
 	top: 20%;
 	bottom: 2%;
-	left: 15%;
+	left: 25%;
 	right: 25%;
+	border-radius: 100%;
+
 }
 
 
