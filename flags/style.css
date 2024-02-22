@@ -1,0 +1,278 @@
+body {
+  background-color: white;
+  font-family: 'Avenir Next', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navigation {
+	width: 500px;
+	height: 700px;
+	border: 3px ;
+	margin: 150px auto;
+	padding: 3px auto;
+	position: relative;
+	color: black;
+\	text-align: center;
+
+}
+
+.navigation h1 {
+	font-size: 24pt;
+	border: 1px solid white;
+	margin-top: 0;
+	margin-bottom: 15px;
+	text-align: center;
+	font-weight: 400;
+
+
+}
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style-type: none
+}
+
+.navigation li {
+  font-weight: 200;
+  letter-spacing: 2px;
+  padding: 8px;
+  list-style-type: none
+
+}
+
+a:link { 
+  text-decoration: none; 
+  color: black;
+  font-size: 12pt;
+} 
+a:visited { 
+  text-decoration: none;
+  color: black; 
+  font-size: 12pt;
+
+} 
+a:hover { 
+  text-decoration: none; 
+  color: black;
+  font-size: 20pt;
+  color: red;
+  transition: 1s;
+
+} 
+a:active { 
+  text-decoration: none; 
+  color: black;
+  font-size: 12pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.colombia-yellow {
+	width: 100%;
+	height: 50%;
+	background-color: #ffcd00;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+
+}
+
+.colombia-blue {
+	width: 100%;
+	height: 25%;
+	background-color: #003087;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 50%;
+}
+
+.colombia-red {
+	width: 100%;
+	height: 25%;
+	background-color: #c8102e;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 75%;
+}
+
+
+
+
+
+
+
+.madagascar-green {
+	width: 66%;
+	height: 50%;
+	background-color: #017d3a;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 50%;
+	left:33%;
+}
+
+.madagascar-red {
+	width: 66%;
+	height: 50%;
+	background-color: #fc3f31;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left:33%;
+}
+
+
+
+
+
+.belgium-black {
+	width: 33%;
+	height: 100%;
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+
+}
+
+.belgium-yellow {
+	width: 33%;
+	height: 100%;
+	background-color: #fdda25;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	right: 33%;
+	left: 33%;
+}
+
+.belgium-red {
+	width: 33%;
+	height: 100%;
+	background-color: #ef3340;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 66%;
+}
+
+
+
+
+
+.sweden-blue {
+	width: 100%;
+	height: 100%;
+	background-color: #005c97;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+}
+
+.sweden-verticle {
+	width: 10%;
+	height: 100%;
+	background-color: #ffd600;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 30%;
+}
+
+.sweden-horizontal {
+	width: 100%;
+	height: 15%;
+	background-color: #ffd600;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 40%;
+}
+
+
+
+
+
+
+
+.tonga-red {
+	width: 100%;
+	height: 100%;
+	background-color: #c10000;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+}
+
+.tonga-box {
+	width: 41.5%;
+	height: 50%;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	right: 58.5%;
+}
+
+.tonga-verticle {
+	width: 6.4%;
+	height: 38%;
+	background-color: #c10000;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 6%;
+	left: 17.4%;
+}
+
+.tonga-horizontal {
+	width: 18.5%;
+	height: 12%;
+	background-color: #c10000;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top: 18.5%;
+	left: 11.5%;
+}
+
+.palau-blue {
+	width: 100%;
+	height: 100%;
+	background-color: #0099fe;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+}
+
+
+.palau-yellow {
+	width: 60%;
+	height: 60%;
+	background-color: #ffff00;
+	position: absolute;
+	top: 20%;
+	bottom: 2%;
+	left: 15%;
+	right: 25%;
+}
+
+
+
