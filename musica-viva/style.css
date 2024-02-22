@@ -1,33 +1,71 @@
-@keyframes colors {
-  0%  {color: red;}
-  15% {color: orange;}
-  30% {color: yellow;}
-  45% {color: green;}
-  60% {color: blue;}
-  75% {color: indigo;}
-  90% {color: violet;}
+body {
+  background-color: white;
+  font-family: 'Helvetica Neue', sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
 
-body {
-  font-family:helvetica; sans-serif;
-  line-height: 1;
-  margin: 0;
-  padding: 0;
+.navigation {
+  width: 500px;
+  height: 700px;
+  border: 3px ;
+  margin: 150px auto;
+  padding: 3px auto;
+  position: relative;
+  color: black;
+\ text-align: center;
+
 }
-a {
-  color: #000;
-}
-a:hover {
-  animation: colors 0.5s infinite;
-}
-ul {
-  font-size: 10vw;
+
+.navigation h1 {
+  font-size: 24pt;
+  border: 1px solid white;
+  margin-top: 0;
+  margin-bottom: 15px;
   text-align: center;
-  padding: 0;
-  margin: 0;
+  font-weight: 400;
+
+
 }
-li {
-  list-style: none;
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  list-style-type: none
+}
+
+.navigation li {
+  font-weight: 200;
+  letter-spacing: 2px;
+  padding: 8px;
+  list-style-type: none
+
+}
+
+a:link { 
+  text-decoration: none; 
+  color: black;
+  font-size: 12pt;
+} 
+a:visited { 
+  text-decoration: none;
+  color: black; 
+  font-size: 12pt;
+
+} 
+a:hover { 
+  text-decoration: none; 
+  color: black;
+  font-size: 20pt;
+  color: red;
+  transition: 1s;
+
+} 
+a:active { 
+  text-decoration: none; 
+  color: black;
+  font-size: 12pt;
 }
 
 /* styles for poster2 */
