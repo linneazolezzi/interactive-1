@@ -415,6 +415,244 @@ a:active {
 
 
 
+.row {
+  font-size: 45px;
+  font-weight: 500;
+  letter-spacing: -.04em;
+  word-spacing: .2em;
+  line-height: -8em;
+}
+
+.poster4 .col-left {
+  position: absolute; 
+ 
+
+  /* width of the box is 100/6 */
+  width: 25vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: left;
+  line-height: vw;
+  color: #749a9f;
+  padding-left: 2vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+}
+
+.poster4 .col1 {
+  position: absolute; 
+
+
+  /* width of the box is 100/6 */
+  width: 25vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: right;
+   font-size: 45px;
+  font-weight: 500;
+  letter-spacing: -.04em;
+  word-spacing: .2em;
+  line-height: -8em;
+  color: #749a9f;
+  padding-right: 1vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+  background: #f7f6f3;
+}
+
+
+.poster4 .col-mid-left {
+    position: absolute; 
+
+
+  /* width of the box is 100/6 */
+  width: 50vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: left;
+  font-size: px;
+  line-height: vw;
+  color: #749a9f;
+  left: 25vw;
+  padding-left: 1vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+  background: #f7f6f3;
+
+}
+
+
+
+.poster4 .col-mid-right {
+   position: absolute; 
+ 
+
+  /* width of the box is 100/6 */
+  width: 50vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: right;
+  font-size: px;
+  line-height: vw;
+  color: #749a9f;
+  left: 25vw;
+  padding-right: 1vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+  background: #;
+}
+
+.poster4 .col3 {
+  position: absolute;
+
+  /* width of the box is 100/6 */
+  width: 25vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: left;
+  font-size: px;
+  line-height: vw;
+  color: #749a9f;
+  left: 75vw;
+  padding-left: 1vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+  background: #f7f6f3;
+}
+
+.poster4 .col-right {
+  position: absolute; 
+
+  /* width of the box is 100/6 */
+  width: 25vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: right;
+  font-size: px;
+  line-height: vw;
+  color: #;
+  left: 75vw;
+  top:0;
+  padding-right: 2vw;
+
+  /* show border for testing purposes */
+  border: 1px solid #f7f6f3;
+  box-sizing: border-box;
+  background: #;
+}
+
+.poster4 .small-right {
+  position: absolute;
+
+  /* width of the box is 100/6 */
+  width: 25vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: left;
+  font-size: 15.2px;
+  line-height: 1.5vw;
+  color: black;
+  left: 75vw;
+  padding-left: 1vw;
+  top:8.8vw;
+}
+
+.poster4 .small-left {
+   position: absolute; 
+ 
+
+  /* width of the box is 100/6 */
+  width: 49vw; 
+  
+  /* giving it a specific height vw in order to keep the aspect ratio */
+  height: 141.1667vw;
+ 
+  /* text appearance */ 
+  text-align: right;
+  font-size: 15.2px;
+  line-height: 1.5vw;
+  color: black;
+  left: 25vw;
+  padding-right: 1vw;
+  top:8.8vw;
+
+}
+
+
+.orange {
+  color: #d87753;
+  margin-top: 35.2916vw;
+}
+
+.green {
+  color: #578c64;
+}
+
+.blue {
+  color: #4f95b5;
+}
+
+.yellow {
+  color: #cea442;
+}
+
+.black {
+  color: black;
+  margin-top: 35.2916vw;
+  
+}
+
+.blue-left {
+  color: #4f95b5;
+  margin-top: 35.2916vw;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
